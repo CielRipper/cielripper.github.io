@@ -1,0 +1,98 @@
+html, body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+body {
+    font-family: 'Gudea', sans-serif;
+    background-image: url('https://free-images.com/lg/49fb/field_barren_house_shack.jpg');
+    background-position: center top;
+    background-size: cover;
+    margin: 0;
+}
+
+
+.page-title {
+    text-align: center;
+    font-weight: 100;
+}
+
+.page-description {
+    background-color: rgba(180, 220, 210, 0.88);
+    color: #1f3b36;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+    padding: 30px;
+}
+
+
+.nav {
+    background-color: rgba(180, 220, 210, 0.88);
+    color: #1f3b36;
+    text-align: left;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
+
+.nav ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.section-image{
+    width: 100%;
+    max-width: 520px;
+    height: auto;
+
+    border-radius: 12px;
+    margin-top: 12px;
+
+    box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+    border: 2px solid rgba(31, 59, 54, 0.35);
+}
+
+.container-causes{
+
+}
+.container-timeline{
+
+}
+.container-impact{
+
+}
+.container-legacy{
+
+}
+
+.gudea-regular {
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.gudea-bold {
+    font-family: "Gudea", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.gudea-regular-italic {
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+

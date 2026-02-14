@@ -1,0 +1,11 @@
+.get-started-btn, .download-btn, .try-btn {
+  background: #1f3b36 !important;
+  border-color: #1f3b36 !important;
+}
+.get-started-btn:hover, .download-btn:hover, .try-btn:hover {
+  background: #16302c !important;
+  border-color: #16302c !important;
+}
+
+a { color: #1f3b36; }
+a:hover { color: #16302c; }

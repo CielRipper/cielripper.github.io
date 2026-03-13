@@ -66,6 +66,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Main Stuff/School Stuff/Comp Sci/Database and Web/cielripper.github.io/csci340lab8/RazorPagesMovie/Pages/Songs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29uZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Main Stuff/School Stuff/Comp Sci/Database and Web/cielripper.github.io/csci340lab8/RazorPagesMovie/Pages/Songs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29uZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Main Stuff/School Stuff/Comp Sci/Database and Web/cielripper.github.io/csci340lab8/RazorPagesMovie/Pages/Songs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29uZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Main Stuff/School Stuff/Comp Sci/Database and Web/cielripper.github.io/csci340lab8/RazorPagesMovie/Pages/Songs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29uZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Main Stuff/School Stuff/Comp Sci/Database and Web/cielripper.github.io/csci340lab8/RazorPagesMovie/Pages/Songs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29uZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Main Stuff/School Stuff/Comp Sci/Database and Web/cielripper.github.io/csci340lab8/RazorPagesMovie/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

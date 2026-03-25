@@ -9,6 +9,7 @@ namespace ContosoUniversity.Data
     {
         public static void Initialize(SchoolContext context)
         {
+
             // Look for any students.
             if (context.Students.Any())
             {

@@ -28,19 +28,18 @@ namespace ContosoUniversity.Pages.Students
                 return NotFound();
             }
 
-              Student = await _context.Students
-        .Include(s => s.Enrollments)
-        .ThenInclude(e => e.Course)
-        .AsNoTracking()
-        .FirstOrDefaultAsync(m => m.ID == id);
-            if (student is not null)
-            {
-                Student = student;
+            Student = await _context.Students
+                .Include(s => s.Enrollments)
+                .ThenInclude(e => e.Course)
+                .AsNoTracking()
+                .FirstOrDefaultAsync(m => m.ID == id);
 
-                return Page();
+            if (Student == null)
+            {
+                return NotFound();
             }
 
-            return NotFound();
+            return Page();
         }
     }
 }
